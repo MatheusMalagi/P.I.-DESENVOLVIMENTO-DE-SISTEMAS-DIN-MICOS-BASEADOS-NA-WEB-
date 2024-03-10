@@ -1,10 +1,10 @@
 # PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS DINÂMICOS BASEADOS NA WEB
-Este trabalho foi criado para fins de estudo ao Projeto Integrador do SENAC - turma de tecnologia voltada para internet.
+Este trabalho foi criado para fins de estudo ao Projeto Integrador do SENAC - CAS-Tecnologia em Sistemas para Internet - Tecnologia CASD.
 
 
 ## Integrantes 
-Matheus José Malagi
-Sandra Regina Lopes Balbino
+- Matheus José Malagi
+- Sandra Regina Lopes Balbino
 
 
 ## Introdução
