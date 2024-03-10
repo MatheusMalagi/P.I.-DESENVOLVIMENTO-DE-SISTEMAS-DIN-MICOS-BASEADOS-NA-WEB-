@@ -19,23 +19,23 @@ O objetivo deste projeto é documentar e representar as etapas envolvidas no des
 
 
 ### Diagrama de caso de uso
-(![Diagrama de casos de uso](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/8dff80be-54cf-44e5-8b63-032921a2d1b0)
+![Diagrama de casos de uso](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/8dff80be-54cf-44e5-8b63-032921a2d1b0)
 
 
 ### Diagrama de classes
-(![Diagrama de classe](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/cdf956c4-0927-4254-b53c-c667db8f5c24)
+![Diagrama de classe](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/cdf956c4-0927-4254-b53c-c667db8f5c24)
 
 
 ## Prototipação
-(![Tela principal - projeto](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/c598eff7-2347-47bd-ab2f-06fd321ba090)
+![Tela principal - projeto](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/c598eff7-2347-47bd-ab2f-06fd321ba090)
 
-(![Tela pincipal - PF](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/ed10b76c-89c5-4a4d-91ba-bb66d25f8b5f)
+![Tela pincipal - PF](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/ed10b76c-89c5-4a4d-91ba-bb66d25f8b5f)
 
-(![Tela pincipal - PJ](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/db326f98-ec94-484f-a494-6cf61ff969b9)
+![Tela pincipal - PJ](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/db326f98-ec94-484f-a494-6cf61ff969b9)
 
-(![Cadastro Aluno](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/018f532e-209b-4fab-8d4b-47d4e0b5e853)
+![Cadastro Aluno](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/018f532e-209b-4fab-8d4b-47d4e0b5e853)
 
-(![Cadastro Professor](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/81386ce0-b2a3-43ab-ad78-09fdf4789b73)
+![Cadastro Professor](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/81386ce0-b2a3-43ab-ad78-09fdf4789b73)
 
 (![Cadastro fornecedor](https://github.com/MatheusMalagi/P.I.-DESENVOLVIMENTO-DE-SISTEMAS-DIN-MICOS-BASEADOS-NA-WEB-/assets/150686318/75041e69-e646-4f70-a12f-9ff62a3cb2af)
 
