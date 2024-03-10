@@ -14,8 +14,8 @@ O objetivo deste projeto é documentar e representar as etapas envolvidas no des
 ## Modelagem 
 
 ### Lista de Funcionalidades
-- Cadastrar, editar, buscar e deletar aluno
-- Cadastrar, editar, buscar e deletar professor, PF, PJ e fornecedor
+- Cadastrar, consultar, atualizar e excluir Aluno
+- Cadastrar, consultar, atualizar e excluir Professor, Pessoa Física (PF), Pessoa Jurídica (PJ) e Fornecedor
 - Relacionar curso, professor e aluno
 
 
