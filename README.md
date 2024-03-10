@@ -1,5 +1,5 @@
 # PROJETO INTEGRADOR: DESENVOLVIMENTO DE SISTEMAS DINÂMICOS BASEADOS NA WEB
-Este trabalho foi criado para fins de estudo ao Projeto Integrador do SENAC - CAS-Tecnologia em Sistemas para Internet - Tecnologia CASD.
+Este trabalho visa dar continuidade à segunda etapa, aplicando os conceitos relacionados ao Desenvolvimento de Sistemas Dinâmicos para a WEB no âmbito do Projeto Integrador do SENAC - CAS na área de Tecnologia em Sistemas para Internet (CASD).
 
 
 ## Integrantes 
